@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <rect width="800" height="450" fill="#0F172A" rx="16"/>
+  <rect x="24" y="24" width="752" height="56" fill="#1E293B" rx="12"/>
+  <text x="48" y="58" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="18" font-weight="bold">Exp 10 — Testing and Debugging Suites (Automated &amp; DevTools)</text>
+  <rect x="60" y="105" width="680" height="60" fill="#1E293B" rx="12" stroke="#10B981"/>
+  <circle cx="95" cy="135" r="14" fill="#10B981"/>
+  <text x="90" y="140" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">✓</text>
+  <text x="130" y="130" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">1. Unit Testing with flutter_test</text>
+  <text x="130" y="150" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">All 20 unit &amp; widget tests passing across models, controllers &amp; math algorithms.</text>
+  <rect x="60" y="180" width="680" height="60" fill="#1E293B" rx="12" stroke="#10B981"/>
+  <circle cx="95" cy="210" r="14" fill="#10B981"/>
+  <text x="90" y="215" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">✓</text>
+  <text x="130" y="205" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">2. Widget &amp; Interaction Testing</text>
+  <text x="130" y="225" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">WidgetTester pumped components verifying temperature badges, icons &amp; navigation.</text>
+  <rect x="60" y="255" width="680" height="60" fill="#1E293B" rx="12" stroke="#10B981"/>
+  <circle cx="95" cy="285" r="14" fill="#10B981"/>
+  <text x="90" y="290" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">✓</text>
+  <text x="130" y="280" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">3. Network Profiling &amp; DevTools</text>
+  <text x="130" y="300" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Open-Meteo REST API JSON serialization and latency inspection verified.</text>
+  <rect x="60" y="330" width="680" height="60" fill="#1E293B" rx="12" stroke="#10B981"/>
+  <circle cx="95" cy="360" r="14" fill="#10B981"/>
+  <text x="90" y="365" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14" font-weight="bold">✓</text>
+  <text x="130" y="355" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">4. Static Analysis with flutter_lints</text>
+  <text x="130" y="375" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Zero errors with strict typing, clean null safety &amp; Material 3 patterns.</text>
+</svg>

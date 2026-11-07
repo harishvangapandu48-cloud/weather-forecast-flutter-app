@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <rect width="800" height="450" fill="#0F172A" rx="16"/>
+  <rect x="24" y="24" width="752" height="56" fill="#1E293B" rx="12"/>
+  <text x="48" y="58" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="18" font-weight="bold">Exp 5 — State Management (setState vs ChangeNotifier Provider)</text>
+  <rect x="60" y="115" width="310" height="260" fill="#1E293B" rx="16" stroke="#F59E0B" stroke-width="1.5"/>
+  <text x="90" y="150" fill="#F59E0B" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">Local State (setState)</text>
+  <text x="90" y="210" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="38" font-weight="300">25.0 °C</text>
+  <text x="90" y="240" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Radar Refreshes: 3</text>
+  <rect x="90" y="275" width="130" height="38" fill="#D97706" rx="10"/>
+  <text x="110" y="299" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12">Switch to °F</text>
+  <rect x="420" y="115" width="320" height="260" fill="#1E293B" rx="16" stroke="#10B981" stroke-width="1.5"/>
+  <text x="450" y="150" fill="#10B981" font-family="system-ui, sans-serif" font-size="15" font-weight="bold">Provider (ChangeNotifier)</text>
+  <text x="450" y="180" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="14">City: London</text>
+  <text x="450" y="230" fill="#FBBF24" font-family="system-ui, sans-serif" font-size="38" font-weight="300">15.2 °C</text>
+  <text x="450" y="260" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Global Dispatches: 5</text>
+  <rect x="450" y="285" width="120" height="38" fill="#059669" rx="10"/>
+  <text x="470" y="309" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12">notifyListeners()</text>
+</svg>
